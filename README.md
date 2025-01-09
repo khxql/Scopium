@@ -78,4 +78,4 @@ More tests soon Inshallah.
 
 ### Versioning.
 
-- **v0.0.1-alpha**: First release.
+- **v1.0.0-alpha**: First release.
